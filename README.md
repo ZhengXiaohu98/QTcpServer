@@ -22,6 +22,6 @@ For both sides:
 2. whenever we click the "disconnect" botton, we will disconnect the client from the host server, and notify the user.
 
 ## Video Walkthrough
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ZhengXiaohu98/QTcpServer/blob/main/gifDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with LICEcap.
