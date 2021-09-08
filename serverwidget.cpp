@@ -12,7 +12,7 @@ ServerWidget::ServerWidget(QWidget *parent)
     //create a tcp server object
     tcpServer = new QTcpServer(this);
     //bind + listen
-    tcpServer->listen(QHostAddress::Any, 9527); //listen all network interfaces, and listen port 8888
+    tcpServer->listen(QHostAddress::Any, 8888); //listen all network interfaces, and listen port 8888
 
     connect(tcpServer, &QTcpServer::newConnection, [=]
     {
